@@ -346,8 +346,6 @@ for day in range(365):
     cprint(kolya, color='cyan')
     cprint(murzik, color='cyan')
 
-print("New info added")
-print("Some additional info")
 
 # Усложненное задание (делать по желанию)
 #
