@@ -348,7 +348,7 @@ for day in range(365):
     cprint(kolya, color='cyan')
     cprint(murzik, color='cyan')
 
-print('second version added')
+print('trird version added')
 
 # Усложненное задание (делать по желанию)
 #
