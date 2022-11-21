@@ -328,6 +328,8 @@ class Child:
 # влить в мастер все коммиты из ветки develop и разрешить все конфликты
 # отправить на проверку учителем.
 
+print("New info added")
+print("Some additional info")
 
 home = House()
 serge = Husband(name='Сережа', house=home)
