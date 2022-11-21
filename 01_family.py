@@ -347,6 +347,7 @@ for day in range(365):
     cprint(murzik, color='cyan')
 
 print("New info added")
+print("Some additional info")
 
 # Усложненное задание (делать по желанию)
 #
